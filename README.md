@@ -1,5 +1,5 @@
 ### Hello Codey people 👋
-### Currently I'm...
+### Currently, I'm...
 - **🔭 working on C# projects.
 - **🌱 learning Computer science, sport tech and maths.
 - **👯 looking to collaborate on C# projects.
